@@ -1,0 +1,11 @@
+{
+	"maxplayers" : 100,
+	"name" : "Los Angeles Roleplay", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 500.0,
+	"announce" : true,
+	"csharp" : "disabled",
+	"port": 22005,
+	"language": "es",
+	"voicechat": true
+}
